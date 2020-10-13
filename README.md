@@ -3,8 +3,8 @@
 <br />
 <br />
 
-CComedy, Music, and Video Streaming Service. Tap in and listen to millions of jokes and songs. Experience Music to the Xstream. #epk #comedy #promotion
-omedy, Music, and Videos.
+Comedy, Music, and Video Streaming Service. Tap in and listen to millions of jokes and songs. Experience Music to the Xstream. #epk #comedy #promotion
+#musicmarketing
 
 - 🔭 We are currently working on a project entitled  [TrumpetBox Contactless Kiosk System](https://github.com/TrumpetBox)
 - 💬 Ask me about anything [here](https://github.com/Hightechteam/Hightechteam/issues)
